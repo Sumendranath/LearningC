@@ -1,0 +1,122 @@
+\hypertarget{test_8c}{}\section{test.\+c File Reference}
+\label{test_8c}\index{test.\+c@{test.\+c}}
+
+
+Dummy class used for illustration purposes. Doing something with it.
+
+Detailed description follows here.  
+
+
+{\ttfamily \#include $<$stdio.\+h$>$}\\*
+Include dependency graph for test.\+c\+:
+% FIG 0
+\subsection*{Typedefs}
+\begin{DoxyCompactItemize}
+\item 
+typedef int($\ast$ {\bfseries func}) (int)\hypertarget{test_8c_a12d9e267efe9723c20913a750d8c20a2}{}\label{test_8c_a12d9e267efe9723c20913a750d8c20a2}
+
+\end{DoxyCompactItemize}
+\subsection*{Functions}
+\begin{DoxyCompactItemize}
+\item 
+int \hyperlink{test_8c_a59e4779d323192021e80ed059f30af92}{funct0} (int)
+\item 
+int \hyperlink{test_8c_a09abd66253db4f54accf0aaadadc3331}{funct1} (int)
+\item 
+int \hyperlink{test_8c_a76fcb26056eff34c74cbe0106b59c0fd}{funct2} (int)
+\item 
+int \hyperlink{test_8c_ab0ce60596940f7c1db5b5dcfe64ffb60}{funct3} (int)
+\item 
+int \hyperlink{test_8c_ae66f6b31b5ad750f1fe042a706a4e3d4}{main} ()
+\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+Dummy class used for illustration purposes. Doing something with it.
+
+Detailed description follows here. 
+
+\begin{DoxyAuthor}{Author}
+Sumendranath 
+\end{DoxyAuthor}
+\begin{DoxyDate}{Date}
+Oct 2018 
+\end{DoxyDate}
+
+
+\subsection{Function Documentation}
+\index{test.\+c@{test.\+c}!funct0@{funct0}}
+\index{funct0@{funct0}!test.\+c@{test.\+c}}
+\subsubsection[{\texorpdfstring{funct0(int)}{funct0(int)}}]{\setlength{\rightskip}{0pt plus 5cm}int funct0 (
+\begin{DoxyParamCaption}
+\item[{int}]{i}
+\end{DoxyParamCaption}
+)}\hypertarget{test_8c_a59e4779d323192021e80ed059f30af92}{}\label{test_8c_a59e4779d323192021e80ed059f30af92}
+My function doing something... 
+\begin{DoxyParams}{Parameters}
+{\em param1} & first parameter \\
+\hline
+{\em param2} & second parameter \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+value return value 
+\end{DoxyReturn}
+\index{test.\+c@{test.\+c}!funct1@{funct1}}
+\index{funct1@{funct1}!test.\+c@{test.\+c}}
+\subsubsection[{\texorpdfstring{funct1(int)}{funct1(int)}}]{\setlength{\rightskip}{0pt plus 5cm}int funct1 (
+\begin{DoxyParamCaption}
+\item[{int}]{i}
+\end{DoxyParamCaption}
+)}\hypertarget{test_8c_a09abd66253db4f54accf0aaadadc3331}{}\label{test_8c_a09abd66253db4f54accf0aaadadc3331}
+My function doing something... 
+\begin{DoxyParams}{Parameters}
+{\em param1} & first parameter \\
+\hline
+{\em param2} & second parameter \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+value return value 
+\end{DoxyReturn}
+\index{test.\+c@{test.\+c}!funct2@{funct2}}
+\index{funct2@{funct2}!test.\+c@{test.\+c}}
+\subsubsection[{\texorpdfstring{funct2(int)}{funct2(int)}}]{\setlength{\rightskip}{0pt plus 5cm}int funct2 (
+\begin{DoxyParamCaption}
+\item[{int}]{i}
+\end{DoxyParamCaption}
+)}\hypertarget{test_8c_a76fcb26056eff34c74cbe0106b59c0fd}{}\label{test_8c_a76fcb26056eff34c74cbe0106b59c0fd}
+My function doing something... 
+\begin{DoxyParams}{Parameters}
+{\em param1} & first parameter \\
+\hline
+{\em param2} & second parameter \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+value return value 
+\end{DoxyReturn}
+\index{test.\+c@{test.\+c}!funct3@{funct3}}
+\index{funct3@{funct3}!test.\+c@{test.\+c}}
+\subsubsection[{\texorpdfstring{funct3(int)}{funct3(int)}}]{\setlength{\rightskip}{0pt plus 5cm}int funct3 (
+\begin{DoxyParamCaption}
+\item[{int}]{i}
+\end{DoxyParamCaption}
+)}\hypertarget{test_8c_ab0ce60596940f7c1db5b5dcfe64ffb60}{}\label{test_8c_ab0ce60596940f7c1db5b5dcfe64ffb60}
+My function doing something... \index{test.\+c@{test.\+c}!main@{main}}
+\index{main@{main}!test.\+c@{test.\+c}}
+\subsubsection[{\texorpdfstring{main()}{main()}}]{\setlength{\rightskip}{0pt plus 5cm}int main (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)}\hypertarget{test_8c_ae66f6b31b5ad750f1fe042a706a4e3d4}{}\label{test_8c_ae66f6b31b5ad750f1fe042a706a4e3d4}
+My function doing something... 
+\begin{DoxyParams}{Parameters}
+{\em param1} & first parameter \\
+\hline
+{\em param2} & second parameter \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+value return value 
+\end{DoxyReturn}
