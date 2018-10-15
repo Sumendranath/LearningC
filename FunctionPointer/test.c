@@ -20,6 +20,7 @@ int funct3(int);
 
 int funct0(int i)
 {
+   funct1(78);
    printf("Hello printed in function pointer 0\n");
 }
 
@@ -31,6 +32,7 @@ int funct0(int i)
 */
 int funct1(int i)
 {
+   funct2(23);
    printf("Hello printed in function pointer 1\n");
 }
 
@@ -67,10 +69,14 @@ int funct3(int i)
 int main()
 {
    func fp[4]={funct0, funct1, funct2, funct3};
-   int i;
+   int i;/*!< Detailed description after the member */
    //fp = {funct0, funct1, funct2, funct3};
    for(i=0;i<4;i++)
    {
       fp[i](i);
    }   
+   if(i==4)
+   {
+      funct3(9);
+   } 
 }
